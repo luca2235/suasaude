@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231823590457",
+    "firebase_url": "https://sua-saude-2e122.firebaseio.com",
+    "project_id": "sua-saude-2e122",
+    "storage_bucket": "sua-saude-2e122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231823590457:android:1e4d342f5ad10f66b8b9e8",
+        "android_client_info": {
+          "package_name": "com.example.sua_saude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231823590457-resof42cp5n83tgpg2j63f6oq0nb73on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1XF8hZFR0-tVVcBf7N3FmG_hjMomcQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231823590457-resof42cp5n83tgpg2j63f6oq0nb73on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
